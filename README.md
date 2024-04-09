@@ -1,6 +1,15 @@
-# Instructions
+# Notes
 
+Your working directory should be:  
+> local-rag-llm-streamlit/
 
+For jupyter lab implementation:
+- run command: jupyter lab  
+
+For Streamlit implementation:
+- run command: streamlit run ui.py
+
+For Docker implementation:
 - open your CLI
 - go to the folder containing docker-compose.yaml
 - run command: docker-compose up
