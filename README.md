@@ -1,5 +1,8 @@
 # Notes
 
+You have to install some dependencies before starting by using:  
+> pip install -r requirements.txt
+
 Your working directory should be:  
 > local-rag-llm-streamlit/
 
