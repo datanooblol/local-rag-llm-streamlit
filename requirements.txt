@@ -1,0 +1,9 @@
+ollama
+langchain
+llama-index
+beautifulsoup4
+chromadb
+torch
+transformers
+# gradio
+streamlit
